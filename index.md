@@ -5,3 +5,5 @@
 ```julia
 println("Coding is easy!")
 ```
+- [ ] Write the second chapter of my thesis. 
+- [ ] Work on my OZ equation solver code. 
